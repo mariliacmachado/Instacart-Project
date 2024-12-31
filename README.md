@@ -31,7 +31,7 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 - **Development Environment:** Jupyter Notebook, Anaconda
 
 ## Dataset Information
-- **Source:** The data was derived from “The Instacart Online Grocery Shopping Dataset 2017”, accessed from (www.instacart.com/datasets/grocery-shopping-2017) via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on November 2024, along with fabricated customer data provided by CareerFoundry.
+- **Source:** The data was derived from “The Instacart Online Grocery Shopping Dataset 2017”, accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on November 2024, along with fabricated customer data provided by CareerFoundry.
 - **Contents:** The dataset includes millions of transactions, detailing orders, products, and customer demographics, with identifiers linking multiple tables.
 - **Data Size:** Large-scale dataset designed for advanced analysis and visualization.
 
