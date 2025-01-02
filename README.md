@@ -21,17 +21,17 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 - Presenting results through data visualizations tailored for stakeholder communication.
 
 ## Folders
-01. **Project Management**
+**01. Project Management**
   - Project Brief
-02. **Data**
+**02. Data**
   - Original Data
   - Prepared Data
-03. **Scripts**
-04. **Analysis**
+**03. Scripts**
+**04. Analysis**
   - Reports
   - Test files
   - Visualizations
-05. **Sento to client**
+**05. Sento to client**
 
 ## Tools and Systems Used
 - **Programming Language:** Python
