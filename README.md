@@ -21,15 +21,15 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 - Presenting results through data visualizations tailored for stakeholder communication.
 
 ## Folders
-**01. Project Management**
+### 01. Project Management
   - Project Brief
-**02. Data**
+### 02. Data
   - Original Data
   - Prepared Data
-**03. Scripts**
-**04. Analysis**
+### 03. Scripts
+### 04. Analysis
   - Visualizations
-**05. Sent to the client**
+### 05. Sent to the client
   - Reports
 
 ## Tools and Systems Used
