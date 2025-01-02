@@ -28,10 +28,9 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
   - Prepared Data
 **03. Scripts**
 **04. Analysis**
-  - Reports
-  - Test files
   - Visualizations
-**05. Sento to client**
+**05. Sent to the client**
+  - Reports
 
 ## Tools and Systems Used
 - **Programming Language:** Python
