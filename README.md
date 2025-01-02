@@ -20,10 +20,18 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 - Exploratory data analysis (EDA) to uncover actionable insights.
 - Presenting results through data visualizations tailored for stakeholder communication.
 
-## Key Deliverables
-- Python scripts for data preparation, transformation, and analysis.
-- Data visualizations highlighting customer behavior, product performance, and sales trends.
-- A comprehensive report with recommendations for Instacart’s marketing strategy.
+## Folders
+01. Project Management
+  - Project Brief
+02. Data
+  - Original Data
+  - Prepared Data
+03. Scripts
+04. Analysis
+  - Reports
+  - Test files
+  - Visualizations
+05. Sento to client
 
 ## Tools and Systems Used
 - **Programming Language:** Python
