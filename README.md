@@ -26,7 +26,7 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 ### 02. Data
   - Original Data
   - Prepared Data
-    *This folder was not added due to size limitations.*
+##### *This folder was not added due to size limitations.*
 
 ### 03. Scripts
 ### 04. Analysis
