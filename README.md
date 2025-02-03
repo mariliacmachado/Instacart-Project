@@ -1,9 +1,8 @@
 # Instacart Grocery Basket Analysis Project
 ![Instacart_Logo_Kale](https://github.com/user-attachments/assets/72929fd9-e168-47b7-bbea-74c92f78c1e0)
-![CareerFoundry-fulllogo-white](https://github.com/user-attachments/assets/aee9257c-438e-457f-9ffc-d7fa758d403a)
 
 ## Project Summary
-This project was completed as part of the CareerFoundry Data Analytics Program and focuses on analyzing sales data from Instacart, a leading online grocery delivery platform. The goal was to uncover customer purchasing patterns and provide actionable insights to inform targeted marketing campaigns and customer segmentation strategies. Using Python and various data visualization techniques, the analysis highlights critical trends in customer behavior and product performance.
+This project focuses on analyzing sales data from Instacart, a leading online grocery delivery platform. The goal was to uncover customer purchasing patterns and provide actionable insights to inform targeted marketing campaigns and customer segmentation strategies. Using Python and various data visualization techniques, the analysis highlights critical trends in customer behavior and product performance.
 
 ## Objectives
 - Identify the busiest days of the week and times of the day for Instacart orders.
